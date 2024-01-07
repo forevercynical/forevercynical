@@ -2,8 +2,6 @@
 
 # 👋 Greetings, Fellow Developer!
 
-![Profile Picture](https://cdn.discordapp.com/attachments/965717722166100018/1189641363717894184/IMG_7947.jpg)
-
 ## About Me
 
 I'm a self-taught developer, enjoy learning and trying new things during my free time. I really enjoy Python for small tasks and have pretty much grown to love JavaScript because of how versatile it is.
