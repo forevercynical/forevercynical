@@ -39,17 +39,21 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
 
 ## My GitHub Stats
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=forevercynical&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://github.com/forevercynical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=forevercynical&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="forevercynical's GitHub Stats" width="400"/>
+  </a>
+  <a href="https://github.com/forevercynical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forevercynical&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
+  </a>
 </p>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forevercynical&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="forevercynical's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forevercynical&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=forevercynical&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=forevercynical&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 </div>
