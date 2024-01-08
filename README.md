@@ -13,8 +13,8 @@ I'm a self-taught developer, enjoy learning and trying new things during my free
 ## Currently Working On
 
 - **Pymino**: I'm actively maintaining Pymino, a Python wrapper for the Amino Apps API. This project involves the development of a modern and user-friendly library for the Amino Apps API, enabling the creation of bots for Amino Apps.
-- **React Chat Application**: Working on a chat application that allows users to communicate in real time with each other. It's a fun project that I'm working on to learn more about React and web development.
-- **React Native Mobile Game**: Developing a chat application that allows users to create group chats and communicate with each other. It's a fun project that I'm working on to learn more about React and web development.
+- **React Chat Application**: Developing a chat application that allows users to create group chats and communicate with each other. It's a fun project that I'm working on to learn more about React and web development.
+- **React Native Mobile Game**: I'm also working on a mobile game using React Native. It's a fun project that I'm working on to bring a little nostalgia to the mobile gaming scene.
 - **Random Projects**: I'll pick up random projects here and there when I'm bored or having writer's block.
 
 ## Skills and Tools
