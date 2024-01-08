@@ -17,13 +17,21 @@ I'm a self-taught developer, enjoy learning and trying new things during my free
 - **React Native Mobile Game**: I'm also working on a mobile game using React Native. It's a fun project that I'm working on to bring a little nostalgia to the mobile gaming scene.
 - **Random Projects**: I'll pick up random projects here and there when I'm bored or having writer's block.
 
-## Skills and Tools
+## Skills, Languages, and Tools
 
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+
+### Development Tools and Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white)
+
 
 </div>
