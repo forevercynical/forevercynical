@@ -12,13 +12,6 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
 
 - [**Pymino**](https://github.com/forevercynical/pymino): A Python wrapper for the Amino Apps API, Pymino simplifies the creation of bots for Amino Apps with its modern and user-friendly library. It's a fully reverse-engineered client, developed primarily for educational purposes. While it enables extensive interaction within the Amino Apps, please be aware that using this client might conflict with Amino Apps' Terms of Service. Usage should be responsible and at your own risk.
 
-## Currently Working On
-
-- **Pymino**: Actively maintaining and developing a modern, user-friendly library for the Amino Apps API.
-- **React Chat Application**: A project focusing on group chats and communication, enhancing my skills in React and web development.
-- **React Native Mobile Game**: Working on a nostalgic mobile game using React Native.
-- **Random Projects**: Engaging in various projects to overcome boredom or writer's block.
-
 ## Skills, Languages, and Tools
 
 ### Languages
