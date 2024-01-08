@@ -40,18 +40,16 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
 ## My GitHub Stats
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=forevercynical&theme=juicyfresh&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=forevercynical&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forevercynical&show_icons=true&theme=vue&bg_color=eff3f6&hide_border=true&include_all_commits=true" alt="forevercynical's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forevercynical&layout=compact&theme=vue&bg_color=eff3f6&hide_border=true" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forevercynical&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="forevercynical's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forevercynical&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forevercynical&theme=vue&background=eff3f6&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forevercynical&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
 
 </div>
