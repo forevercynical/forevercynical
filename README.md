@@ -8,10 +8,6 @@
 
 I'm a **self-taught developer** who enjoys learning and trying new things in my free time. I'm particularly fond of **Python** for small tasks and have grown to love **JavaScript** for its versatility.
 
-## Highlighted Projects
-
-- [**Pymino**](https://github.com/forevercynical/pymino): A Python wrapper for the Amino Apps API, Pymino simplifies the creation of bots for Amino Apps with its modern and user-friendly library. It's a fully reverse-engineered client, developed primarily for educational purposes. While it enables extensive interaction within the Amino Apps, please be aware that using this client might conflict with Amino Apps' Terms of Service. Usage should be responsible and at your own risk.
-
 ## Skills, Languages, and Tools
 
 ### Languages
@@ -33,20 +29,20 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
 ## My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/forevercynical">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=forevercynical&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="forevercynical's GitHub Stats" width="400"/>
+  <a href="https://github.com/wittiness">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wittiness&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="wittiness's GitHub Stats" width="400"/>
   </a>
-  <a href="https://github.com/forevercynical">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forevercynical&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
+  <a href="https://github.com/wittiness">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittiness&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forevercynical&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wittiness&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=forevercynical&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wittiness&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 </div>
