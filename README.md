@@ -33,7 +33,7 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wittiness&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="wittiness's GitHub Stats" width="400"/>
   </a>
   <a href="https://github.com/wittiness">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittiness&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittiness&theme=dark&layout=compact&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
   </a>
 </p>
 
