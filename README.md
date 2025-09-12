@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👋 Greetings, Fellow Developer!
+# 👋 what's up nerds and virgins
 
 *“It's not that I'm so smart, it's just that I stay with problems longer.” - Albert Einstein*
 
 ## About Me
 
-I'm a **self-taught developer** who enjoys learning and trying new things in my free time. I'm particularly fond of **Python** for small tasks and have grown to love **JavaScript** for its versatility.
+i'm the type who gets way too excited about code that actually works and will definitely have thoughts about how you wrote yours. i build stuff, break it to see what happens, then spend forever trying to make it perfect
+
+my browser always has like 40 tabs open, mostly stack overflow and docs i'm too lazy to bookmark. i can usually figure out what's wrong with your code before you finish explaining it and probably care about making things work right more than i should
 
 ## Skills, Languages, and Tools
 
