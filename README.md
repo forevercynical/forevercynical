@@ -32,19 +32,19 @@ my browser always has like 40 tabs open, mostly stack overflow and docs i'm too 
 
 <p align="center">
   <a href="https://github.com/wittiness">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wittiness&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="wittiness's GitHub Stats" width="400"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=forevercynical&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="wittiness's GitHub Stats" width="400"/>
   </a>
   <a href="https://github.com/wittiness">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittiness&theme=dark&layout=compact&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forevercynical&theme=dark&layout=compact&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wittiness&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forevercynical&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wittiness&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=forevercynical&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 </div>
