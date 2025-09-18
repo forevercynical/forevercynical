@@ -31,10 +31,10 @@ my browser always has like 40 tabs open, mostly stack overflow and docs i'm too 
 ## My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/wittiness">
+  <a href="https://github.com/forevercynical">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=forevercynical&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="wittiness's GitHub Stats" width="400"/>
   </a>
-  <a href="https://github.com/wittiness">
+  <a href="https://github.com/forevercynical">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forevercynical&theme=dark&layout=compact&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
   </a>
 </p>
